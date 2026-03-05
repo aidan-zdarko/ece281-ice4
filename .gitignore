@@ -32,6 +32,10 @@
 !*.runs/**/
 !*.runs/**/*.bit
 
+#don't ignore image files
+!*.png
+!*.jpg
+
 # don't ignore markdown
 !*.md
 !*.png
